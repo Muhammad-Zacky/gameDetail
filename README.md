@@ -19,7 +19,7 @@ This game is easy to play, but challenging to master!
 |------|---------|
 | ![Unity Logo](https://img.icons8.com/color/48/unity.png) [Unity](https://unity.com) | Main game engine |
 | ![C++ Logo](https://img.icons8.com/color/48/c-plus-plus-logo.png) C++ | Core game logic and scripting |
-| ![Itch.io Logo](https://img.icons8.com/ios-filled/50/itch-io.png) [Itch.io](https://itch.io) | Platform for publishing and sharing the game |
+| ![Itch.io Logo]([https://img.icons8.com/ios-filled/50/itch-io.png](http://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/04/Itch.io_.jpg)) [Itch.io](https://itch.io) | Platform for publishing and sharing the game |
 
 ---
 
